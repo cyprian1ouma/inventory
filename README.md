@@ -1,0 +1,2 @@
+# inventory
+Iventory details
